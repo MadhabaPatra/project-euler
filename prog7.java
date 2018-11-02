@@ -16,7 +16,7 @@ public class prog7
         flag=true;
         return flag;
  }
- public static void main()
+ public static void main(String[] args)
  {
      int c=0,i=1;
      while(i>0)
