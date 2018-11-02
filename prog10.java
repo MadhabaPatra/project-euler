@@ -16,7 +16,7 @@ public class prog10
         flag=true;
         return flag;
  }
- public static void main()
+ public static void main(String[] args)
  {
      int i;long sum=2;
      for(i=3;i<=2000000;i+=2)
