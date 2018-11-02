@@ -8,7 +8,7 @@
       long a=600851475143L;
       while(a>1)
       {
-          for(i=2;i<=n;i++)
+          for(i=2;i<=a;i++)
           {
               if(a%i==0)
               {
