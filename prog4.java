@@ -17,7 +17,7 @@ return flag;
 }
  public static void main()
  {
-  int i=999,j=999,n=1,max=0,a=0,b=0;
+  int i=999,j=999,n=1,max=0;
  for(i=999;i>=100;i--)
  {
     for(j=999;j>=100;j--)
@@ -29,13 +29,11 @@ return flag;
            if(max<n)
            {
             max=n;
-            a=i;
-            b=j;
            }
         }
     }
 }
-System.out.println("The palindrome number is"+max+"="+a+"*"+b);     
+System.out.println("The palindrome number is "+max);     
  }
 }
 
