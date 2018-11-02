@@ -15,7 +15,7 @@ if(rev==a)
 flag=true;
 return flag;
 }
- public static void main()
+ public static void main(String[] args)
  {
   int i=999,j=999,n=1,max=0;
  for(i=999;i>=100;i--)
