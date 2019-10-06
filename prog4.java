@@ -1,4 +1,5 @@
 //program 4-the largest palindrom made from the product of two 3-digit number
+// Hacktober fest edit to get a tshirt anythink you want to edit
 public class prog4
 {
  public static  boolean ispalin(int n)
