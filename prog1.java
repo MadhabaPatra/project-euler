@@ -11,7 +11,7 @@ public class prog1
              sum+=i;
            }
         }
-      System.out.println("the sum of multiple of 3 or 5 below 1000 ="+sum);
+      System.out.println("The sum of multiple of 3 or 5 below 1000 = "+sum);
     }
 }
             
